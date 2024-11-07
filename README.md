@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Site Reliability Engineer @ Shell
 ---------------------------------
 
-I'm passionate about building and automating infrastructure using Infrastructure as Code (IaC) tools. I have experience with various technologies, including: Terraform: Provisioning and managing cloud resources in a declarative and repeatable way. GitHub: Version control, collaboration, and code deployment for infrastructure projects. Packer: Building identical machine images for different platforms, ensuring consistency across deployments. Azure: Microsoft's cloud computing platform for deploying and managing applications. AWS: Amazon Web Services, another major cloud provider for scalable and cost-effective infrastructure. Kubernetes: Deploy container apps in a container orchestrator This profile showcases my ability to design, develop, and deploy robust infrastructure solutions.
+I'm passionate about building and automating infrastructure using Infrastructure as Code (IaC) tools. I have experience with various technologies, including: 
+- Terraform: Provisioning and managing cloud resources in a declarative and repeatable way.
+- GitHub: Version control, collaboration, and code deployment for infrastructure projects.
+- Packer: Building identical machine images for different platforms, ensuring consistency across deployments.
+- Azure: Microsoft's cloud computing platform for deploying and managing applications.
+- AWS: Amazon Web Services, another major cloud provider for scalable and cost-effective infrastructure.
+- Kubernetes: Deploy container apps in a container orchestrator This profile showcases my ability to design, develop, and deploy robust infrastructure solutions.
 
 * 🌍  I'm based in Bangalore
 * 🖥️  See my portfolio at [here](http://meyuviofficial.github.io/green-dolphin/)
