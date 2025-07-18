@@ -13,9 +13,9 @@ I'm passionate about building and automating infrastructure using Infrastructure
 - Kubernetes: Deploy container apps in a container orchestrator This profile showcases my ability to design, develop, and deploy robust infrastructure solutions.
 
 * 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [here](http://meyuviofficial.github.io/green-dolphin/)
+* 🖥️  See my portfolio at [here](http://meyuviofficial.github.io/crimson-viper/)
 * ✉️  You can contact me at [yuvarajselva@hotmail.com](mailto:yuvarajselva@hotmail.com)
-* 🧠  I'm learning React JS, Neovim
+* 🧠  I'm learning LLMs
 * ⚡  I would love to automate things and solve challenging tasks
 
 <a href="https://www.github.com/meyuviofficial" target="_blank" rel="noreferrer"><img
